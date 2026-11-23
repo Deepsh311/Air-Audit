@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Distance rings -->
+    <path android:fillColor="#00000000" android:strokeColor="#29425A" android:strokeWidth="2.5"
+        android:pathData="M24,54a30,30 0 1,0 60,0a30,30 0 1,0 -60,0" />
+    <path android:fillColor="#00000000" android:strokeColor="#3D5C7A" android:strokeWidth="2.5"
+        android:pathData="M35,54a19,19 0 1,0 38,0a19,19 0 1,0 -38,0" />
+    <!-- Bearing to a device that has an issue -->
+    <path android:strokeColor="#A594FF" android:strokeWidth="2.5" android:strokeLineCap="round"
+        android:pathData="M54,54L67.4,40.6" />
+    <path android:fillColor="#FF9248" android:pathData="M63.4,40.6a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <!-- You, at the centre -->
+    <path android:fillColor="#A594FF" android:pathData="M54,46.5L58.5,59L54,56.5L49.5,59Z" />
+</vector>
